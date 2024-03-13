@@ -33,3 +33,6 @@ Este script define una clase Logger que se utiliza para registrar mensajes en un
 
 ### Instrucciones
 1. Ejecuta el código proporcionado para crear instancias de Test y realizar llamadas para registrar mensajes en el archivo de registro. Cada instancia de Test registra un conjunto de mensajes numerados en el archivo de registro.
+
+## Link al repositorio
+https://github.com/AlvaroSantamariaAnton/AlvaroSantamariaAnton-Entrega_Ejercicios_POO_Santamaria_Alvaro.git
